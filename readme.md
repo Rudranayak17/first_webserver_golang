@@ -17,13 +17,13 @@ This is a simple web server written in Go (Golang) using the standard library's 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Rudranayak17/first_webserver_golang
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd <project-directory>
+    cd cd first_webserver_golang
     ```
 
 3. Run the web server:
